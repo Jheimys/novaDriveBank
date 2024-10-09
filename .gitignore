@@ -1,0 +1,14 @@
+config.yaml
+*.keras
+*.h5
+objects/*
+!objects/.gitkeep
+__pycache__/
+*.pyc
+*.pyo
+venv/
+*.log
+*.out
+*.tmp
+novadrivebank_env/
+modelcreation.ipynb
